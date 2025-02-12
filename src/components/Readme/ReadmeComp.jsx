@@ -14,7 +14,7 @@ import {
 import Slide from "@mui/material/Slide";
 import { motion } from "framer-motion";
 import { BsExclamation } from "react-icons/bs";
-import profilePic from "./profilePic2.1.png";
+import profilePic from "./aadi.png";
 import Footer from "./Footer";
 
 const ReadmeComponent = () => {
