@@ -15,7 +15,7 @@ The E-commerce website is a full-stack application built using React with Vite a
 - [Technologies Used](#technologies-used)
 - [Set Up ](#set-up)
 - [Screenshots](#screenshots)
-- [Contact](#contact)
+- 
 
 
 
